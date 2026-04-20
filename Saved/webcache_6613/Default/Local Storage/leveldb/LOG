@@ -1,2 +1,81 @@
-2026/04/05-13:07:42.137 3838 Creating DB C:\Users\alex_\OneDrive\Documents\Unreal Projects\Roguelike\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
-2026/04/05-13:07:42.201 3838 Reusing MANIFEST C:\Users\alex_\OneDrive\Documents\Unreal Projects\Roguelike\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/08-17:11:29.246 29fc Reusing MANIFEST E:\Unreal Engine\Repositories\Roguelike-Game\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/08-17:11:29.253 29fc Recovering log #3
+2026/04/08-17:11:29.255 29fc Reusing old log E:\Unreal Engine\Repositories\Roguelike-Game\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/04/08-17:25:39.200 d4c Level-0 table #5: started
+2026/04/08-17:25:39.223 d4c Level-0 table #5: 21251 bytes OK
+2026/04/08-17:25:39.234 d4c Delete type=0 #3
+2026/04/08-17:26:47.082 d4c Level-0 table #7: started
+2026/04/08-17:26:47.101 d4c Level-0 table #7: 20725 bytes OK
+2026/04/08-17:26:47.123 d4c Delete type=0 #4
+2026/04/08-17:27:27.574 d4c Level-0 table #9: started
+2026/04/08-17:27:27.592 d4c Level-0 table #9: 20445 bytes OK
+2026/04/08-17:27:27.608 d4c Delete type=0 #6
+2026/04/08-17:33:24.078 d4c Level-0 table #11: started
+2026/04/08-17:33:24.094 d4c Level-0 table #11: 21280 bytes OK
+2026/04/08-17:33:24.109 d4c Delete type=0 #8
+2026/04/08-17:41:47.053 d4c Level-0 table #13: started
+2026/04/08-17:41:47.072 d4c Level-0 table #13: 28504 bytes OK
+2026/04/08-17:41:47.083 d4c Delete type=0 #10
+2026/04/08-17:42:36.468 d4c Level-0 table #15: started
+2026/04/08-17:42:36.491 d4c Level-0 table #15: 29443 bytes OK
+2026/04/08-17:42:36.502 d4c Delete type=0 #12
+2026/04/08-17:42:36.503 d4c Compacting 4@0 + 1@1 files
+2026/04/08-17:42:36.516 d4c Generated table #16@0: 16 keys, 11789 bytes
+2026/04/08-17:42:36.516 d4c Compacted 4@0 + 1@1 files => 11789 bytes
+2026/04/08-17:42:36.523 d4c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/08-17:42:36.523 d4c Delete type=2 #7
+2026/04/08-17:42:36.523 d4c Delete type=2 #9
+2026/04/08-17:42:36.524 d4c Delete type=2 #11
+2026/04/08-17:42:36.524 d4c Delete type=2 #13
+2026/04/08-17:42:36.524 d4c Delete type=2 #15
+2026/04/08-17:45:36.464 d4c Level-0 table #18: started
+2026/04/08-17:45:36.501 d4c Level-0 table #18: 25600 bytes OK
+2026/04/08-17:45:36.508 d4c Delete type=0 #14
+2026/04/08-17:49:36.468 d4c Level-0 table #20: started
+2026/04/08-17:49:36.485 d4c Level-0 table #20: 32567 bytes OK
+2026/04/08-17:49:36.493 d4c Delete type=0 #17
+2026/04/08-17:53:36.455 d4c Level-0 table #22: started
+2026/04/08-17:53:36.470 d4c Level-0 table #22: 29815 bytes OK
+2026/04/08-17:53:36.477 d4c Delete type=0 #19
+2026/04/08-17:56:36.453 d4c Level-0 table #24: started
+2026/04/08-17:56:36.472 d4c Level-0 table #24: 25725 bytes OK
+2026/04/08-17:56:36.480 d4c Delete type=0 #21
+2026/04/08-17:56:36.480 d4c Compacting 4@0 + 1@1 files
+2026/04/08-17:56:36.496 d4c Generated table #25@0: 17 keys, 12043 bytes
+2026/04/08-17:56:36.496 d4c Compacted 4@0 + 1@1 files => 12043 bytes
+2026/04/08-17:56:36.504 d4c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/08-17:56:36.504 d4c Delete type=2 #16
+2026/04/08-17:56:36.505 d4c Delete type=2 #18
+2026/04/08-17:56:36.505 d4c Delete type=2 #20
+2026/04/08-17:56:36.505 d4c Delete type=2 #22
+2026/04/08-17:56:36.505 d4c Delete type=2 #24
+2026/04/08-18:00:36.467 d4c Level-0 table #27: started
+2026/04/08-18:00:36.486 d4c Level-0 table #27: 32476 bytes OK
+2026/04/08-18:00:36.494 d4c Delete type=0 #23
+2026/04/08-18:03:36.454 d4c Level-0 table #29: started
+2026/04/08-18:03:36.475 d4c Level-0 table #29: 25721 bytes OK
+2026/04/08-18:03:36.483 d4c Delete type=0 #26
+2026/04/08-18:23:42.286 d4c Level-0 table #31: started
+2026/04/08-18:23:42.305 d4c Level-0 table #31: 31035 bytes OK
+2026/04/08-18:23:42.313 d4c Delete type=0 #28
+2026/04/08-18:24:07.405 d4c Level-0 table #33: started
+2026/04/08-18:24:07.423 d4c Level-0 table #33: 31048 bytes OK
+2026/04/08-18:24:07.431 d4c Delete type=0 #30
+2026/04/08-18:24:07.432 d4c Compacting 4@0 + 1@1 files
+2026/04/08-18:24:07.448 d4c Generated table #34@0: 17 keys, 12046 bytes
+2026/04/08-18:24:07.448 d4c Compacted 4@0 + 1@1 files => 12046 bytes
+2026/04/08-18:24:07.455 d4c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/08-18:24:07.456 d4c Delete type=2 #25
+2026/04/08-18:24:07.456 d4c Delete type=2 #27
+2026/04/08-18:24:07.456 d4c Delete type=2 #29
+2026/04/08-18:24:07.456 d4c Delete type=2 #31
+2026/04/08-18:24:07.457 d4c Delete type=2 #33
+2026/04/08-18:24:22.489 d4c Level-0 table #36: started
+2026/04/08-18:24:22.508 d4c Level-0 table #36: 25824 bytes OK
+2026/04/08-18:24:22.515 d4c Delete type=0 #32
+2026/04/08-18:24:46.434 d4c Level-0 table #38: started
+2026/04/08-18:24:46.462 d4c Level-0 table #38: 33913 bytes OK
+2026/04/08-18:24:46.470 d4c Delete type=0 #35
+2026/04/08-18:25:54.577 d4c Level-0 table #40: started
+2026/04/08-18:25:54.602 d4c Level-0 table #40: 31045 bytes OK
+2026/04/08-18:25:54.610 d4c Delete type=0 #37

@@ -1,5 +1,50 @@
-[17704:13680:0405/130741.868:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[17704:13680:0405/130741.960:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[17704:13680:0405/130749.560:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[14288:22520:0405/130752.574:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-EE31BB9D7D80CC314ADBAF379E3286D7 will be ignored
-[17704:13680:0405/130932.498:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[5996:36072:0408/171129.078:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[5996:36072:0408/171129.173:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[5996:12656:0408/171134.370:WARNING:leveldb_database.cc(141)] Unable to open E:\Unreal Engine\Repositories\Roguelike-Game\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: E:\Unreal Engine\Repositories\Roguelike-Game\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5996:12656:0408/171134.385:WARNING:leveldb_database.cc(141)] Unable to open E:\Unreal Engine\Repositories\Roguelike-Game\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: E:\Unreal Engine\Repositories\Roguelike-Game\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5996:12656:0408/171134.459:WARNING:leveldb_database.cc(141)] Unable to open E:\Unreal Engine\Repositories\Roguelike-Game\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: E:\Unreal Engine\Repositories\Roguelike-Game\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5996:12656:0408/171134.460:WARNING:leveldb_database.cc(141)] Unable to open E:\Unreal Engine\Repositories\Roguelike-Game\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: E:\Unreal Engine\Repositories\Roguelike-Game\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5996:12656:0408/171136.173:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5996:12656:0408/171136.175:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[29060:15972:0408/171136.609:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-10DAA0B5D3E32C5CE5635B34FDB185A1 will be ignored
+[9800:19860:0408/171137.849:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[9800:33884:0408/171139.080:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-4CA19350A0E2CD1983A06721843FD3A0 will be ignored
+[5996:36072:0408/171140.718:ERROR:device_event_log_impl.cc(196)] [17:11:40.712] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[26396:17664:0408/172204.333:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[9332:33440:0408/172204.839:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[9332:1924:0408/172206.921:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame B-649BFB9BE117A430E4300CFB128A887A will be ignored
+[2564:20940:0408/172347.818:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[26124:15636:0408/172349.096:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[26124:19268:0408/172350.681:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame D-0F1E4D80365D1517D3564D6B99DFC994 will be ignored
+[34300:15664:0408/172535.995:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[29064:26700:0408/172536.523:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[29064:15872:0408/172539.188:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame F-B0DE016C2B83C33C4B664DF4AA6EABDB will be ignored
+[29776:34572:0408/172609.288:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[13548:31024:0408/172611.582:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[13548:8228:0408/172851.291:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 11-5B24D740CD075C58973D9D0DF545AB96 will be ignored
+[31396:9364:0408/172939.978:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[9648:4576:0408/172940.708:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[9648:24464:0408/172941.165:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 13-E202181FE27EBAE8A6A82756C9C8A39C will be ignored
+[29116:37808:0408/173220.988:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[28600:14500:0408/173221.589:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[28600:36140:0408/173222.594:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 15-270561C029D719535FBD6488319DE35D will be ignored
+[36528:32888:0408/173322.798:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[25880:5096:0408/173323.784:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[5996:36072:0408/173323.789:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.867 s for first_image_paint 0.866 s
+[5996:36072:0408/173323.957:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.867 s for first_image_paint 0.866 s
+[25880:14112:0408/173324.022:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 17-5431913957B4DE117D064D221F016575 will be ignored
+[27784:28688:0408/173324.095:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 1
+[27784:28688:0408/173324.095:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 3
+[27784:28688:0408/173324.095:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 7
+[27784:28688:0408/173324.095:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 9
+[27784:28688:0408/173324.095:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 11
+[27784:28688:0408/173324.095:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 13
+[27784:28688:0408/173324.095:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 15
+[27784:28688:0408/173324.117:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 5
+[24440:20456:0408/173954.260:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[20952:17416:0408/173954.471:WARNING:video_capture_oracle.cc(147)] Event time is not monotonically non-decreasing.  Deciding not to capture this frame.
+[3052:8320:0408/173955.818:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[3052:18704:0408/174109.571:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 19-3F28A318F1D719400F769888F2D0DCD0 will be ignored
+[32992:8300:0408/174126.145:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[18912:28440:0408/174127.053:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
+[5996:36072:0408/183027.067:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
